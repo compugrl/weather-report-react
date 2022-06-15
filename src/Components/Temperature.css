@@ -1,0 +1,50 @@
+
+
+#tempControls {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    height: 30%;
+    margin-top: 10%;
+}
+
+#tempDisplay {
+    font-size: 1.5rem;
+}
+
+#leftArrow, #rightArrow {
+    width: 30%;
+    height: 45%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 120%;
+    text-align: center;
+    margin: 0px;
+}
+
+.teal {
+    color: teal;
+}
+
+.darkblue {
+    color: darkblue;
+}
+
+.gold {
+    color: gold;
+}
+
+.orange {
+    color: orange;
+}
+
+.red {
+    color: red;
+}
